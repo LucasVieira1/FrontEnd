@@ -10,6 +10,9 @@ Fork do frontend - projeto Polaris, realizado para efetuar alterações
 
 *  React
 
-## 📽 Projeto Polaris
+## 📺 GitHub Polaris
+* <a href="https://github.com/Polaris-Projeto" title="GitHub">Clique Aqui</a>
+
+## 📽 Projeto Polaris - Site
 * <a href="https://polarisconecta.netlify.app/" title="Site">Clique Aqui</a>
 
