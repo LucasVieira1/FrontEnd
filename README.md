@@ -1,5 +1,5 @@
 # 🖼 Frontend projeto Polaris 🖼
-Fork do frontend - projeto Polaris, realizado para efetuar alterações
+Fork do frontend - projeto Polaris
 
 ##  :desktop_computer:  Arquitetura de Software no Desenvolvimento
 
